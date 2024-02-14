@@ -1,0 +1,57 @@
+.logo-container{
+    z-index: 0;
+    width:600px;
+    height: 889px;
+    position: absolute;
+    top: 0;
+    right: 15%;
+    bottom: 0;
+    left: auto;
+    margin: auto;
+
+    svg{
+        width: 100%;
+        height: auto;
+        bottom: 0;
+        // transform: rotateZ(38deg) !important;
+    }
+  
+section{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    top: 130px;
+    .blob{
+        position: absolute;
+        width: 700px;
+        height: 700px;
+        left: 50px;
+        z-index: 1;
+        // background: #fff;
+        
+.solid-logo{
+    position: absolute;
+    top: auto;
+    bottom: -10%;
+    left: 10%;
+    margin: auto;
+    width: 80%;
+    // opacity: 0.9;
+    // transform: rotateZ(38deg);
+    z-index: 1;
+    animation: bounceIn 1s 1s;
+
+}   
+    }
+  
+}
+}
+.animate-glow{
+   filter: drop-shadow(0 0 15px yellow);
+
+}
+// .svg-container{
+//     stroke: #ffd700;
+//     stroke-width:10px ;
+// }

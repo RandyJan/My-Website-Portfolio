@@ -1,0 +1,17 @@
+.background-wave{
+    padding: 0;
+    margin: 0;
+    bottom: 0;
+    top: 350px;
+    position: absolute;
+    width: 100%;
+    .bg-wave{
+        //  filter: drop-shadow(0 0 15px yellow);
+        // filter: blur(0 0 3px #ffd700);
+        margin-top: 700px;
+        position: absolute;
+        z-index: 1;
+        // top: 100%;
+    }
+  
+}
