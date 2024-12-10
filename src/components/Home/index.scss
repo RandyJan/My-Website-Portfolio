@@ -84,11 +84,12 @@
     .page{
         justify-content: center;
         align-items: center;
+        overflow: hidden;
     }
     .home-page{
         justify-content: center;
         align-items: center;
-        border: solid red 1px;
+        // border: solid red 1px;
         height: 95vh;
         .text-zone{
             position: relative;
