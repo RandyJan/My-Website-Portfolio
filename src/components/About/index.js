@@ -33,14 +33,14 @@ const About = ()=>{
                new challenges and innovate effectively. I am confident in my ability to take
                 on demanding projects, overcome obstacles, and contribute positively to your 
                 team</p>
-        <p>I am driven by a strong sense of purpose and goal orientation. I approach each 
+        {/* <p>I am driven by a strong sense of purpose and goal orientation. I approach each 
             project with clear objectives in mind, striving to deliver results that not only 
             meet but exceed expectations. My focus on setting and achieving measurable goals 
             allows me to stay motivated, organized, and dedicated to producing high-quality 
             work. I am committed to continuous improvement, always seeking new challenges that
              will push me to grow professionally and contribute effectively to the success of
-              the team and the organization.</p>
-        <p>I bring a wealth of experience and expertise to the table as a skilled developer.
+              the team and the organization.</p> */}
+        {/* <p>I bring a wealth of experience and expertise to the table as a skilled developer.
              With a solid foundation in programming languages, frameworks, and best practices
              , I have successfully delivered numerous projects that showcase my technical 
              proficiency and problem-solving abilities. My attention to detail, passion for
@@ -48,7 +48,7 @@ const About = ()=>{
                trends make me a valuable asset to any development team. I am confident in my 
                ability to tackle complex challenges, collaborate effectively with colleagues,
                 and deliver innovative solutions that meet and exceed expectations.</p>
-        <p></p>
+        <p></p> */}
 
 
             </div>

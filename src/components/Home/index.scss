@@ -76,3 +76,39 @@
         }
     }
 }
+@media screen and (max-width: 600px) {
+    .container
+    {
+        position: relative;
+    }
+    .page{
+        justify-content: center;
+        align-items: center;
+    }
+    .home-page{
+        justify-content: center;
+        align-items: center;
+        border: solid red 1px;
+        height: 95vh;
+        .text-zone{
+            position: relative;
+            left: 0%;
+            top: 0;
+            transform: none;
+            width: 60%;
+        }
+        // border: solid green 1px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        h1{
+            // border: solid red 1px;
+            font-size: 30px;
+        }
+        
+    }
+    
+
+}

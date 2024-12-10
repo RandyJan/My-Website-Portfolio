@@ -43,6 +43,7 @@ const Home = () =>{
             <h2>Fullstack Developer / Javascript Expert/ Database Management/Laravel & React/C#.NET/Flutter/C++/XML</h2>
             <Link to ="/contact" className = 'flat-button'>CONTACT ME</Link>
         </div>
+       
         <Logo/>
        
         </div>

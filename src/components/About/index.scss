@@ -71,3 +71,43 @@
         transform: rotateX(90deg);
     }
 }
+@media screen and (max-width: 600px) {
+    
+    .container {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+    }
+    .page{
+        justify-content: center;
+        align-items: center;
+    }
+    .about-page{
+        display: flex;
+        flex-direction: column;
+        // border:solid green 1px;e
+        justify-content: center;
+        align-items: center;
+        // border: solid red 1px;
+        height: 95vh;
+        .text-zone{
+            h1{
+                font-size: 30px;
+            }
+        }
+        .text-zone{
+            position: relative;
+            transform: none;
+            width: 70%;
+            top: 20%;
+            margin-bottom: 55%;
+        }
+        .stage-cube-cont{
+            position: relative;
+            transform: none;
+            width: 70%;
+            margin-left: 20%;
+
+        }
+    }
+}
