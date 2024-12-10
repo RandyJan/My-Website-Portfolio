@@ -114,7 +114,7 @@
                 object-fit: cover; /* Cover the entire area without distortion */
                 display: block; /* Remove bottom space below the image */
                 border-radius: 20px;
-                filter: blur(1px);
+                filter: blur(2px);
 
               }
               .flip-card-back {
