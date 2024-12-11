@@ -145,11 +145,11 @@ textarea{
             }
             .contact-form{
                 margin-top: 0%;
-                margin-bottom: 10vh;
+                // margin-bottom: 10vh;
                 // border: red solid 1px;
                 height: 20vh;
+                margin-bottom: 10vh;
                     form{
-
                         ul{
                             margin-bottom: 10vh;
                             position: relative;
@@ -157,7 +157,7 @@ textarea{
                     }
             }
             p{
-                margin-bottom: 20vh;
+                margin-bottom: 10vh;
             }
         }
     }
