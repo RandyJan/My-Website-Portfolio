@@ -139,13 +139,22 @@ textarea{
             justify-content: center;
             align-items: center;
             text-align: center;
-
             h1{
-
+                
                 font-size: 30px;
             }
             .contact-form{
                 margin-top: 0%;
+                margin-bottom: 10vh;
+                // border: red solid 1px;
+                height: 20vh;
+                    form{
+
+                        ul{
+                            margin-bottom: 10vh;
+                            position: relative;
+                        }
+                    }
             }
             p{
                 margin-bottom: 20vh;
