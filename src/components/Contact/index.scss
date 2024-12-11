@@ -108,3 +108,48 @@ textarea{
    
     padding: 5px;
 }
+@media screen and (max-width: 600px) {
+    .container
+    {
+        position: relative;
+    }
+    .contact-page{
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        // overflow-y: scroll;
+        .info-map{
+            // border: green solid 1px ;
+            position: relative;
+            display: none;
+        }
+        .map-wrap{
+            display: none;
+        }
+        .text-zone{
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            transform: none;
+            width: 60%;
+            height: 100vh;
+            // border: red solid 1px;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+
+            h1{
+
+                font-size: 30px;
+            }
+            .contact-form{
+                margin-top: 0%;
+            }
+            p{
+                margin-bottom: 20vh;
+            }
+        }
+    }
+}
