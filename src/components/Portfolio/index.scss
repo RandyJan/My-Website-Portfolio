@@ -211,8 +211,12 @@
     }
 }
 @media screen and (max-width: 600px) {
+  .page{
+    overflow: hidden;
+  }
   .portfolio-page{
     overflow-x: hidden;
+    height: 90%;
   .test{
 
   .my-text-zone{
@@ -224,6 +228,7 @@
   .project-container{
     .flip-card{
 
+      height: 30vh;
       .flip-card-inner{
         width: 25vh;
       }
