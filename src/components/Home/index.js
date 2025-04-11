@@ -21,7 +21,7 @@ const Home = () =>{
 
 
    return(
-    <>        <div className="container home-page">
+    <>        <div className="home-page reverse">
 
         <div className="text-zone">
        

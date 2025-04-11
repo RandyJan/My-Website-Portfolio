@@ -77,14 +77,17 @@
     }
 }
 @media screen and (max-width: 600px) {
-    .container
-    {
-        position: relative;
-    }
+  
     .page{
         justify-content: center;
         align-items: center;
         overflow: hidden;
+    }
+    .reverse
+    {
+        display: flex;
+        
+        flex-direction: column-reverse;
     }
     .home-page{
         justify-content: center;
@@ -96,14 +99,14 @@
             left: 0%;
             top: 0;
             transform: none;
-            width: 60%;
+            width: 55%;
         }
         // border: solid green 1px;
         display: flex;
-        flex-direction: column;
+        flex-direction: column-reverse;
         justify-content: center;
         align-items: center;
-        flex-wrap: wrap;
+        // flex-wrap: wrap;
         h1{
             // border: solid red 1px;
             font-size: 30px;
