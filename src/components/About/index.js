@@ -25,8 +25,8 @@ const About = ()=>{
 
         </h1>
 
-        <p><b>> Website Development Experience 1.8 years<br/>
-        > Successfully Freelanced 5 projects<br/>
+        <p><b>> Website Development Experience 2 years<br/>
+        > Successfully Freelanced 6 projects<br/>
         > Graduated in Pamantasan ng Lungsod ng Muntinlupa (PLMUN)<br/>
         > Bachelor of Science in Computer Science Graduate 2023<br/>
         > CTICS Week Programming Quizbee Silver Medalist 2022 (PLMUN)
