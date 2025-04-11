@@ -25,14 +25,14 @@ const About = ()=>{
 
         </h1>
 
-        <p>As a web developer, I thrive on tackling challenging tasks that push the
-             boundaries of my skills and knowledge. I have a proven track record of
-              successfully navigating complex projects, problem-solving under pressure,
-               and delivering high-quality solutions. I am passionate about staying abreast 
-               of the latest technologies and methodologies, enabling me to adapt quickly to 
-               new challenges and innovate effectively. I am confident in my ability to take
-                on demanding projects, overcome obstacles, and contribute positively to your 
-                team</p>
+        <p><b>> Website Development Experience 1.8 years<br/>
+        > Successfully Freelanced 5 projects<br/>
+        > Graduated in Pamantasan ng Lungsod ng Muntinlupa (PLMUN)<br/>
+        > Bachelor of Science in Computer Science Graduate 2023<br/>
+        > CTICS Week Programming Quizbee Silver Medalist 2022 (PLMUN)
+        </b>
+
+            </p>
         {/* <p>I am driven by a strong sense of purpose and goal orientation. I approach each 
             project with clear objectives in mind, striving to deliver results that not only 
             meet but exceed expectations. My focus on setting and achieving measurable goals 
